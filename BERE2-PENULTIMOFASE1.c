@@ -1,4 +1,4 @@
-//Codigo de madrugada
+//Contem diversos erros, esperando declaracoes, nao confundir com variaveis(tudo certo esta parte) e a expressao que precisa ser tipo ponteiro, eu resolvi a parte da Matriz e calculei certo, resta apenas inserir expressao certa
 /// Inclusão de bibliotecas
 #include <stdio.h>// printf e scanf
 #include <stdlib.h>// system
