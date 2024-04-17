@@ -1,3 +1,4 @@
+//Lisa, insira o codigo fornecido no zap direito, assim o loop infinito vai parar de vez
 /// Inclusão de bibliotecas
 #include <stdio.h>// printf e scanf
 #include <stdlib.h>// system
