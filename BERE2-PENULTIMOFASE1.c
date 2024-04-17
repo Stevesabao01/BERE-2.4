@@ -1,3 +1,4 @@
+//Codigo de madrugada
 /// Inclusão de bibliotecas
 #include <stdio.h>// printf e scanf
 #include <stdlib.h>// system
